@@ -8,7 +8,7 @@ function Contato(){
     return(
         <div className={"div1"}>
 
-            <h1>Pagina de Contatos </h1>
+            <h2>Pagina de Contatos </h2>
             <span>Contatos da empresa (dd) xxxxx-xxxx</span>
             <br/>
             <br/>

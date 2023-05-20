@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 function Erro(){
     return(
         <div className={"divErro"}>
-            <h2>Ops, Parece que essa página não existe</h2>
+            <h5>Ops, Parece que essa página não existe</h5>
 
             <hr/>
             <br/>
